@@ -1,0 +1,11 @@
+supervision
+requests
+ray[all]
+transformers
+openai
+open3d_plus
+git+https://github.com/IDEA-Research/GroundingDINO.git
+git+https://github.com/facebookresearch/segment-anything.git
+einops 
+tensorflow
+accelerate

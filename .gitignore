@@ -1,0 +1,12 @@
+*__pycache__*
+
+*build*
+*dist*
+*.egg-info
+
+logs*
+npz_file*
+output*
+data/demo*
+
+*.parquet
